@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD in NLP and finance
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Université Paris Saclay
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Natural Language Processing and Finance
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
+- Natural Language Processing
 - Information Retrieval
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Research Master Deegre in Artificial Intelligence
+    institution: ENS Paris Saclay
+    year: 2019/2020
+  - course: Ingeneer Degree in Applied Mathematics to Finance
+    institution: CentraleSupélec
+    year: 2018/2019
+  - course: Research Master Degree in Statistique and Finance
+    institution: ENSAE and Ecole Polytechnique
+    year: 2018/2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "samuel.guilluy@hotmail.fr".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/samuel_guilluy
@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Samuel Guilluy is a student at MVA ENS Paris Saclay.
